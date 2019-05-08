@@ -1,0 +1,31 @@
+
+
+-----------------------------------------
+INITIAL CONDITIONS: 
+eta = 0.07 
+eta (for losers in Leaky) = 0.000070 
+eta (lower limit in eta decay) = 0.03 
+
+Results for input_leaky_decay: 
+Mean: 8.000 
+Standard Deviation: 1.095445115010
+
+-----------------------------------------
+INITIAL CONDITIONS: 
+eta = 0.08 
+eta (for losers in Leaky) = 0.000090 
+eta (lower limit in eta decay) = 0.04 
+
+Results for random_leaky_not-decay: 
+Mean: 9.400 
+Standard Deviation: 1.019803902719
+
+-----------------------------------------
+INITIAL CONDITIONS: 
+eta = 0.06 
+eta (for losers in Leaky) = 0.000050 
+eta (lower limit in eta decay) = 0.02 
+
+Results for input_not-leaky_decay: 
+Mean: 6.000 
+Standard Deviation: 0.894427191000
